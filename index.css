@@ -1,0 +1,56 @@
+.main-container {
+
+}
+
+.sign-up {
+	color: grey;
+}
+
+.reset-password {
+	color: grey;
+}
+
+body {
+	background-color: #f4f4f4;
+}
+
+.site-container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.logo {
+	margin-left: 15px;
+}
+
+.forms-wrapper {
+	float: left;
+	margin-left: 150px;
+}
+
+.logo-wrapper {
+
+	float: left;
+}
+
+.nav-bar {
+	background: red;
+	padding-top: 150px;
+}
+
+.sign-up-wrapper {
+	float: left;
+	margin-right: 20px;
+}
+
+.reset-password-wrapper {
+
+}
+
+.autorization-href {
+	padding-top: 15px;
+}
+
+#login_form {
+	padding-top: 15px;
+}
