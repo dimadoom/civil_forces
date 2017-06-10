@@ -54,3 +54,25 @@ body {
 #login_form {
 	padding-top: 15px;
 }
+#search_form{
+	float: right;
+	margin-bottom: 10px;
+
+}
+#search_form input{
+	border-color: blue;
+	width: 214px;
+	padding-right: 0;
+	margin-right: 0;
+	position: relative;
+	left: 5px;
+}
+#search_form button{
+	padding-left: 0;
+	margin-left: 0;
+	border-color: blue;
+	background: blue;
+}
+#search-form button div{
+	background-image: url(../images/search@1x.png);
+}
